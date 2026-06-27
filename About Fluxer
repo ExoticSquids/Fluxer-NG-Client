@@ -1,0 +1,24 @@
+-----ABOUT FLUXER-----
+
+Fluxer is a free, open-source chat platform built as an alternative to Discord — text channels, voice and video calls, servers (called "communities"), roles, and moderation tools, all the stuff you're already used to.
+
+-----WHAT MAKES IT DIFFERENT-----
+
+
+Open source. The entire platform's code is public on GitHub under the AGPL v3 license. Anyone can inspect it, audit it, or contribute to it — nothing is hidden.
+Self-hostable. Communities can run their own independent Fluxer server instead of relying on one company's servers. That's exactly what we're doing — New Game+ runs on our own dedicated hardware, not Discord's, not even Fluxer's own official servers.
+No forced verification. Since we run our own instance, nobody outside our community decides what data gets collected or who it gets shared with.
+Built-in voice & video. Powered by LiveKit, an open-source real-time media engine — same category of tech that powers a lot of modern video platforms.
+
+
+-----HOW IT'S BUILT-----
+
+Fluxer isn't one giant program — it's split into a bunch of smaller specialized services (API, gateway, media handling, voice, search, and more) that all work together behind the scenes. For us as users, none of that complexity matters; it just means the people building Fluxer designed it to actually scale.
+
+-----WHERE IT'S HEADED-----
+
+Fluxer is actively developed and growing — the official public instance already has well over 100,000 users. Self-hosting support is brand new (just added this month), which means we're genuinely early to this — most of the internet hasn't even found out self-hosting Fluxer is possible yet.
+
+-----THE BOTTOM LINE-----
+
+It looks and feels like Discord, works like Discord, but it's ours — our server, our rules, our data.
