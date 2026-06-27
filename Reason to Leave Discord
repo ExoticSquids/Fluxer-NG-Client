@@ -1,1 +1,41 @@
+------REASON TO LEAVE DISCORD------
 
+Hey — if you're reading this, you probably saw the announcement and want the full story. Here it is, no corporate-speak, just why I personally decided it was time to build something of our own.
+
+
+
+------THE AGE/ID VERIFICATION THING------
+
+Discord (like a lot of platforms right now) is rolling out age verification — and depending on where you live, that can mean ID verification, selfie verification, or both.
+
+Here's what bugs me about it: this isn't being handled in-house. It's being routed through third-party verification companies — and Discord has already gone through multiple different vendors for this. The first one had its own data-handling controversy. The second one didn't get much public attention. The current one processes payment transactions on top of the ID side — and the ID photos themselves get handed off to yet another, separate company to actually process. So you've got Discord → payment processor → a third company handling your actual photo ID. That's not one handoff, that's a chain of them.
+
+The broader pattern is what gets me: every company added to that chain is another database, another place your personal info can leak, get sold, or get breached. And once your ID is out there tied to an account, you can't undo that the way you can undo a leaked password.
+
+
+
+------IT'S NOT JUST DISCORD------
+
+This isn't a "Discord bad" thing specifically — it's part of a bigger wave happening across a lot of platforms right now: more ID gates, more "prove who you are" walls, and alongside it, a push toward restricting or banning VPN usage in some of these same verification flows. Put those two things together and it starts looking less like "child safety" and more like "let's make sure we always know exactly who you are and where you're connecting from."
+
+Maybe that's overly cynical. But personally, I'd rather not hand over more of that information than I have to, to companies I have no relationship with and no way to verify are handling it responsibly.
+
+
+
+------WHAT WE'RE DOING INSTEAD------
+
+I set up our own Fluxer server — Fluxer is an open-source, self-hosted alternative to Discord. The difference that actually matters here: we own it. No outside company decides what data gets collected, who it gets sent to, or what new verification hoop we have to jump through next year. It's on a real dedicated server, on a 10Gbps connection, with plenty of room for our whole group plus room to grow.
+
+I'm not anti-technology, anti-verification-in-general, or trying to start a movement — I just wanted a space for us that isn't subject to decisions made by companies we never agreed to trust in the first place.
+
+
+
+------WHAT THIS MEANS FOR YOU------
+
+No ID, no selfie, no card info needed to just talk to your friends
+Same voice/video/text experience you're used to
+Fluxer has its own Nitro-style premium tier — they call it Plutonium — and everyone on our server gets it for free. No paywalled features, no "pay to not be second-class." If you want to support the server running, donations are always welcome, but nothing is locked behind them. If you want to show off your support I can make a role for that.
+If you ever want to leave, your data isn't locked into some corporate platform
+
+
+If you've got questions, concerns, or just want to talk it through, I'm an open book — ping me or drop into #support.
