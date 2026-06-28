@@ -1,0 +1,34 @@
+ALL PATCH NOTES:
+
+Patch Notes for 6/28/2026:
+
+Ver. 1.0.2
+- Renamed app branding
+- Added auto-update support
+- Added minimize to tray
+
+Ver 1.0.3
+- Renamed app to Fluxer.KrazzStudios.com
+- Added auto-update banner
+- Added system tray support
+- Added notification toggle
+- Fixed screen sharing
+- Custom app icon
+- Privacy Policy now live
+- ToS required at registration
+
+Ver 1.0.4
+- Fixed ToS privacy link trap
+- Privacy link opens in browser
+
+Ver 1.0.5
+- Added single instance lock
+- Fixed duplicate tray icons
+- Changed .exe file icon
+
+Ver 1.0.6
+- Fixed app crash on launch
+- Fixed tray icon not showing
+- Cleaned up icon file paths
+
+NEXT DATE HERE
